@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Homelab',
+			icon: 'home',
+			link: 'http://192.168.10.31:10245/b/default',
 		},
 		{
 			id: '2',
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ol' Reliable',
+					link: 'https://music.youtube.com/playlist?list=PL06UbRQGqY0_-xPGB1pxg5rM0rRkbiWc2',
 				},
 				{
 					name: 'Classic',
