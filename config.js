@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Homelab',
+			icon: 'home',
+			link: 'http://192.168.10.31:10245/b/default',
 		},
 		{
 			id: '2',
